@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-main() => runApp(MaterialApp(title: "state", home: Home()));
+main() => runApp(MaterialApp(title: "Counter", home: Home()));
 
 class Home extends StatefulWidget {
   @override
